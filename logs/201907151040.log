@@ -1,0 +1,16 @@
+2019-07-15 10:40:10,326 - BrowserEngine - INFO - You had select Chrome browser.
+2019-07-15 10:40:10,327 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-07-15 10:40:12,538 - BrowserEngine - INFO - Starting Chrome browser.
+2019-07-15 10:40:13,661 - BrowserEngine - INFO - Maximize the current window.
+2019-07-15 10:40:14,060 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-07-15 10:40:14,061 - BrowserEngine - INFO - Set implicitly wait 3 seconds.
+2019-07-15 10:40:15,086 - BasePage - INFO - Had find the element '  ' successful 
+2019-07-15 10:40:15,235 - BasePage - INFO - Had type ' selenium ' in inputBox
+2019-07-15 10:40:16,235 - BasePage - INFO - Sleep for 1 seconds
+2019-07-15 10:40:16,273 - BasePage - INFO - Had find the element '  ' successful 
+2019-07-15 10:40:16,364 - BasePage - INFO - The element '  ' was clicked.
+2019-07-15 10:40:17,365 - BasePage - INFO - Sleep for 1 seconds
+2019-07-15 10:40:17,390 - BasePage - INFO - Had find the element ' Selenium(浏览器自动化测试框架)_百度百科 ' successful 
+2019-07-15 10:40:17,398 - BasePage - INFO - Current element text is Selenium(浏览器自动化测试框架)_百度百科
+2019-07-15 10:40:17,414 - BasePage - INFO - Had find the element ' Selenium(浏览器自动化测试框架)_百度百科 ' successful 
+2019-07-15 10:40:17,422 - BaiduSearch - INFO - expect_text: Selenium(浏览器自动化测试框架)_百度百科 is equal to actual_text: Selenium(浏览器自动化测试框架)_百度百科 .Test pass.

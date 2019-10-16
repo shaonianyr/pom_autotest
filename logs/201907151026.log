@@ -1,0 +1,20 @@
+2019-07-15 10:26:01,533 - BrowserEngine - INFO - You had select Chrome browser.
+2019-07-15 10:26:01,533 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-07-15 10:26:03,734 - BrowserEngine - INFO - Starting Chrome browser.
+2019-07-15 10:26:04,856 - BrowserEngine - INFO - Maximize the current window.
+2019-07-15 10:26:05,208 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-07-15 10:26:05,209 - BrowserEngine - INFO - Set implicitly wait 3 seconds.
+2019-07-15 10:26:06,230 - BasePage - INFO - Had find the element '  ' successful 
+2019-07-15 10:26:06,365 - BasePage - INFO - Had type ' selenium ' in inputBox
+2019-07-15 10:26:07,367 - BasePage - INFO - Sleep for 1 seconds
+2019-07-15 10:26:07,398 - BasePage - INFO - Had find the element '  ' successful 
+2019-07-15 10:26:07,488 - BasePage - INFO - The element '  ' was clicked.
+2019-07-15 10:26:08,497 - BasePage - INFO - Sleep for 1 seconds
+2019-07-15 10:26:08,517 - BasePage - INFO - Had find the element ' Selenium(浏览器自动化测试框架)_百度百科 ' successful 
+2019-07-15 10:26:08,527 - BasePage - INFO - Current element text is Selenium(浏览器自动化测试框架)_百度百科
+2019-07-15 10:26:08,537 - BasePage - INFO - Had find the element ' Selenium(浏览器自动化测试框架)_百度百科 ' successful 
+2019-07-15 10:26:08,547 - BaiduSearch - INFO - 'Selenium' != 'Selenium(浏览器自动化测试框架)_百度百科'
+- Selenium
++ Selenium(浏览器自动化测试框架)_百度百科
+
+2019-07-15 10:26:08,547 - BaiduSearch - INFO - Tess fail.
