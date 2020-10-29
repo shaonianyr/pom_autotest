@@ -1,6 +1,8 @@
 # pom_autotest
 展示 [POM - Web UI 自动化测试平台](https://github.com/ShaoNianyr/Autotest_platform) 的原理层，一个简单的基于 POM 模式结构的脚本 Demo。
 
+技术交流 QQ 群: 552643038
+
 ## 快速体验
 ```bash
 	git clone https://github.com/ShaoNianyr/pom_autotest.git
